@@ -1,4 +1,4 @@
-### Hi there 👋
+### 안녕, 귀여운 아기고양이들? 👋
 
 <!--
 **eunzi-kim/eunzi-kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
