@@ -8,4 +8,4 @@
 #### 블로그 : https://xxnxi.tistory.com/
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunzi-kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Eunji's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunzi-kim)](https://github.com/eunzi-kim/github-readme-stats)
