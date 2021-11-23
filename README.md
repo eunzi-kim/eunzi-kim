@@ -3,6 +3,9 @@
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladmswlek)](https://solved.ac/rladmswlek)
 <br />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunzi-kim&show_icons=true&theme=radical)
+<br />
+
 ### 청춘기록 ✏
 
 👩‍🏫 수학교육과 졸업생 
