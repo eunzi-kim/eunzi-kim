@@ -13,3 +13,7 @@
 
 
 #### 블로그 : https://xxnxi.tistory.com/
+
+## 🏆 Solved.ac Tier
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladmswlek)](https://solved.ac/rladmswlek)
