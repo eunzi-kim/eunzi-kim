@@ -1,3 +1,8 @@
+## 🏆 Solved.ac Tier
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladmswlek)](https://solved.ac/rladmswlek)
+<br />
+
 ### 청춘기록 ✏
 
 👩‍🏫 수학교육과 졸업생 
@@ -13,7 +18,3 @@
 
 
 #### 블로그 : https://xxnxi.tistory.com/
-
-## 🏆 Solved.ac Tier
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladmswlek)](https://solved.ac/rladmswlek)
