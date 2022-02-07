@@ -21,3 +21,5 @@
 
 
 #### 블로그 : https://xxnxi.tistory.com/
+
+#### 포트폴리오 : https://astonishing-tailor-098.notion.site/a21fc0b305354dec95807aafd2047432
