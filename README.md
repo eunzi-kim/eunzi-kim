@@ -10,10 +10,6 @@
 
 👩‍🏫 수학교육과 졸업생 
 
-⌨ 이러닝 콘텐츠 설계자 : 2019. 05 ~ 2019. 11.
-
-💻 개발공부 시작: 2021. 01. 05 ~
-
 ⌨ 웹 개발자 근무 시작 : 2022. 02. 03 ~<br><br>
 
 
@@ -24,6 +20,4 @@
 좋은 세상을 만들어가는 개발자 되어가는 과정 ❣
 
 
-#### 블로그 : https://xxnxi.tistory.com/
-
-#### 포트폴리오 : https://astonishing-tailor-098.notion.site/a21fc0b305354dec95807aafd2047432
+#### 포트폴리오 : https://astonishing-tailor-098.notion.site/2cd6e9b8d33b43c7bf75d2e23199bd9c?pvs=4
